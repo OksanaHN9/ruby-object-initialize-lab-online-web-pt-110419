@@ -1,1 +1,1 @@
-@name = "Mutt"
+@spot = Dog
